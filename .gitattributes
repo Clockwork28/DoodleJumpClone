@@ -1,0 +1,14 @@
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst/.Runtime/burst-llvm-16.dll filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-16.so filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst/.Runtime filter=lfs diff=lfs merge=lfs -text
+*.unity filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.dilyb filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
