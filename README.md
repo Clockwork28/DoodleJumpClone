@@ -16,7 +16,7 @@ A Unity-based clone of the popular mobile game 'Doodle Jump', created as a learn
 
 ## Technologies Used
 
-- Unity 2021.3 (specify your version)
+- Unity 2021.3
 - C# for scripting
 - Unity's 2D physics system
 
